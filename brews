@@ -1,4 +1,6 @@
 # Development
+bash
+cmake
 python
 python3
 git
@@ -6,6 +8,7 @@ vim
 tmux
 reattach-to-user-namespace
 valgrind
+go
 
 # Utilities
 wget

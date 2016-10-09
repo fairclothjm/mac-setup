@@ -1,3 +1,5 @@
+#! /bin/bash
+
 # Ask for admin passwd
 sudo -v
 
